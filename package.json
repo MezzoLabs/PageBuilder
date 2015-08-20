@@ -1,0 +1,18 @@
+{
+  "name": "mezzo-page-builder",
+  "version": "0.0.1",
+  "description": "Mezzo Page Builder",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MezzoLabs/PageBuilder.git"
+  },
+  "author": "Simon Schneider, Marc Vornetran",
+  "bugs": {
+    "url": "https://github.com/MezzoLabs/PageBuilder/issues"
+  },
+  "homepage": "https://github.com/MezzoLabs/PageBuilder#readme",
+  "devDependencies": {
+    "gulp-blueprint": "0.0.3",
+    "laravel-elixir": "^3.2.5"
+  }
+}
